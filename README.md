@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @q66qe
+- 👋 Hi, I’m @tokyojs1
 - I'm boy
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning python
